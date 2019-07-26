@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LMAT_AMT_V2.PcbDoc   26-07-2019  17:08:58
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : LMAT_AMT_V2-Plated.TXT
+ASCII Non-Plated RoundHoles File : LMAT_AMT_V2-NonPlated.TXT
+EIA File   : LMAT_AMT_V2.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T4      0.254mm (10mil)                                           Round             66        PTH        239.02mm (9.41inch)
+T5      0.305mm (12mil)                                           Round             49        PTH        211.65mm (8.33inch)
+T6      0.406mm (16mil)                                           Round             3         PTH        31.47mm (1.24inch)
+T7      0.86mm (34mil)                                            Round             6         PTH        12.70mm (0.50inch)
+T1      1mm (39mil)                                               Round             3         NPTH       7.21mm (0.28inch)
+T2      2.4mm (94mil)                                             Round             2         NPTH       45.28mm (1.78inch)
+T3      3mm (118mil)                                              Round             2         NPTH       45.28mm (1.78inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              131
+
+Total Processing Time (hh:mm:ss) : 00:00:00
