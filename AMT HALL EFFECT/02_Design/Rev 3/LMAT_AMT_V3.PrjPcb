@@ -110,7 +110,7 @@ UniqueID=37C8B929-0F8D-4139-B3BF-65B1DF35870B
 Description=Variant of LMAT_AMT_V3
 AllowFabrication=0
 ParameterCount=0
-VariationCount=17
+VariationCount=19
 Variation1=Designator=C24|UniqueId=\CFRJOWFY|Kind=1|AlternatePart= 
 Variation2=Designator=D14|UniqueId=\ATYESUMX|Kind=1|AlternatePart= 
 Variation3=Designator=D13|UniqueId=\XBJLKOCY|Kind=1|AlternatePart= 
@@ -128,6 +128,8 @@ Variation14=Designator=D14|UniqueId=\DCJMGRHD|Kind=1|AlternatePart=
 Variation15=Designator=D13|UniqueId=\UKWPVRNC|Kind=1|AlternatePart= 
 Variation16=Designator=D12|UniqueId=\GGJYREAH|Kind=1|AlternatePart= 
 Variation17=Designator=D15|UniqueId=\CJFPTGSQ|Kind=1|AlternatePart= 
+Variation18=Designator=FB2|UniqueId=\DPHATHMV|Kind=1|AlternatePart= 
+Variation19=Designator=FB7|UniqueId=\TKEHCVTE|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
