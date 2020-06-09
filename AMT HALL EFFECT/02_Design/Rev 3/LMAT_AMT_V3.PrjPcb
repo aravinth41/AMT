@@ -93,15 +93,16 @@ UniqueID=37C8B929-0F8D-4139-B3BF-65B1DF35870B
 Description=Variant of LMAT_AMT_V3
 AllowFabrication=0
 ParameterCount=0
-VariationCount=8
+VariationCount=9
 Variation1=Designator=C24|UniqueId=\CFRJOWFY|Kind=1|AlternatePart= 
 Variation2=Designator=C23|UniqueId=\MXNTMCGM|Kind=1|AlternatePart= 
 Variation3=Designator=C22|UniqueId=\YHYVVQTT|Kind=1|AlternatePart= 
 Variation4=Designator=C21|UniqueId=\TSLCIIDB|Kind=1|AlternatePart= 
 Variation5=Designator=C20|UniqueId=\PTRKQWCO|Kind=1|AlternatePart= 
-Variation6=Designator=C15|UniqueId=\ENBMIXTC|Kind=1|AlternatePart= 
+Variation6=Designator=C15|UniqueId=\ENBMIXTC|Kind=0|AlternatePart= 
 Variation7=Designator=FB2|UniqueId=\ROIPNEDP|Kind=1|AlternatePart= 
 Variation8=Designator=FB7|UniqueId=\RESAFPOM|Kind=1|AlternatePart= 
+Variation9=Designator=R30|UniqueId=\OIGRYAHW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
