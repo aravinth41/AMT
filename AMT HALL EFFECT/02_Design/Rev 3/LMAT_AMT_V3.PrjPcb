@@ -105,10 +105,6 @@ Variation8=Designator=FB7|UniqueId=\RESAFPOM|Kind=1|AlternatePart=
 Variation9=Designator=R30|UniqueId=\OIGRYAHW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for LMAT_AMT_V3\Design Rule Check - LMAT_AMT_V3.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
