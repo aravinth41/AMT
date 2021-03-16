@@ -1,0 +1,119 @@
+Altium Designer Pick and Place Locations
+C:\Users\User-1\Desktop\AMT_V3\LMAT_AMT_V3_DELIVERABLES\LMAT_AMT_V3_DELIVERABLES\LMAT_AMT_V3_DELIVERABLES\outputs\Design\LMAT_AMT_V3 (3-12-2021 1-21-17 PM)\Assembly\LMAT_AMT_V4.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16-03-21
+Time:       15:29
+Revision:   0
+Variant:    No variations
+Units used: mm
+
+Designator Comment                                     Layer        Footprint                                Center-X(mm) Center-Y(mm) Rotation Description                                 
+U10        MOSFET 2P-CH 20V 0.55A SOT666               BottomLayer  SOTFL50P160X60-6N-PMDT670UPE,115         30.327       13.411       0        MOSFET 2P-CH 20V 0.55A SOT666               
+U9         MOSFET 2P-CH 20V 0.55A SOT666               BottomLayer  SOTFL50P160X60-6N-PMDT670UPE,115         17.855       18.592       0        MOSFET 2P-CH 20V 0.55A SOT666               
+DGND       Test Point- 35mil                           BottomLayer  TP_35M_DIA                               1.892        8.941        90       Test Point- 35mil                           
+VCC        Test Point- 35mil                           BottomLayer  TP_35M_DIA                               13.106       7.696        90       Test Point- 35mil                           
+A3         Test Point- 35mil                           BottomLayer  TP_35M_DIA                               16.256       9.017        180      Test Point- 35mil                           
+C28        CAP CER 10UF 35V X7R 1206                   TopLayer     SMDC1206                                 5.613        13.073       360      CAP CER 10UF 35V X7R 1206                   
+C27        CAP CER 10UF 35V X7R 1206                   TopLayer     SMDC1206                                 5.613        9.103        360      CAP CER 10UF 35V X7R 1206                   
+U8         IC REG BUCK 5V 1.8A 8DSO                    BottomLayer  SOIC127P600X170_HS-9N                    6.706        21.057       360      IC REG BUCK 5V 1.8A 8DSO                    
+R30        RES SMD 4.7K OHM 1% 1/10W 0402              BottomLayer  SMDR0402                                 33.249       25.095       180      RES SMD 4.7K OHM 1% 1/10W 0402              
+R29        RES SMD 4.7K OHM 1% 1/10W 0402              BottomLayer  SMDR0402                                 33.249       23.571       360      RES SMD 4.7K OHM 1% 1/10W 0402              
+J1         J-LINK 6-PIN NEEDLE ADAPTER                 BottomLayer  PRG_8.06.16_J-LINK_6-PIN_NEEDLE_ADAPTER  24.384       34.290       0        J-LINK 6-PIN NEEDLE ADAPTER                 
+C24        CAP CER 0.022UF 50V 10% X7R 0603            BottomLayer  SMDC0603                                 2.032        24.003       90       CAP CER 0.022UF 50V 10% X7R 0603            
+R14        RES SMD 1.2K OHM 5% 1/2W 0805               TopLayer     SMDR0805                                 5.207        28.499       0        RES SMD 1.2K OHM 5% 1/2W 0805               
+FB1        FERRITE BEAD 600 OHM 0603 1LN               BottomLayer  SMDL0603                                 15.875       34.417       360      FERRITE BEAD 600 OHM 0603 1LN               
+R16        RES SMD 22K OHM 1% 1/10W 0603               BottomLayer  SMDR0603                                 2.032        17.221       90       RES SMD 22K OHM 1% 1/10W 0603               
+C1         CAP CER 0.1UF 50V 10% X7R 0603              BottomLayer  SMDC0603                                 30.429       29.464       90       CAP CER 0.1UF 50V 10% X7R 0603              
+U1         IC MCU 8BIT 8KB FLASH 20TSSOP               BottomLayer  SOP65P640X120-20N                        28.169       23.952       270      IC MCU 8BIT 8KB FLASH 20TSSOP               
+R26        RES SMD 210 OHM 1% 1/10W 0603               BottomLayer  SMDR0603                                 25.565       15.062       90       RES SMD 210 OHM 1% 1/10W 0603               
+R25        RES SMD 210 OHM 1% 1/10W 0603               BottomLayer  SMDR0603                                 18.212       15.062       90       RES SMD 210 OHM 1% 1/10W 0603               
+R24        RES SMD 105 OHM 1% 1/10W 0603               BottomLayer  SMDR0603                                 26.365       12.624       180      RES SMD 105 OHM 1% 1/10W 0603               
+R23        RES SMD 105 OHM 1% 1/10W 0603               BottomLayer  SMDR0603                                 19.050       12.649       180      RES SMD 105 OHM 1% 1/10W 0603               
+R20        RES SMD 210 OHM 1% 1/10W 0603               BottomLayer  SMDR0603                                 21.819       15.062       90       RES SMD 210 OHM 1% 1/10W 0603               
+R19        RES SMD 210 OHM 1% 1/10W 0603               BottomLayer  SMDR0603                                 14.643       15.062       90       RES SMD 210 OHM 1% 1/10W 0603               
+R18        RES SMD 105 OHM 1% 1/10W 0603               BottomLayer  SMDR0603                                 22.657       12.649       180      RES SMD 105 OHM 1% 1/10W 0603               
+R17        RES SMD 105 OHM 1% 1/10W 0603               BottomLayer  SMDR0603                                 15.456       12.649       180      RES SMD 105 OHM 1% 1/10W 0603               
+R15        RES SMD 1M OHM 5% 1/10W 0603                BottomLayer  SMDR0603                                 12.319       19.177       180      RES SMD 1M OHM 5% 1/10W 0603                
+R6         RES SMD 0.0OHM JUMPER 1/10W 0603            TopLayer     SMDR0603                                 26.492       29.253       360      RES SMD 0.0OHM JUMPER 1/10W 0603            
+R5         RES SMD 47K OHM 1% 1/10W 0603               TopLayer     SMDR0603                                 26.492       25.697       180      RES SMD 47K OHM 1% 1/10W 0603               
+L1         FIXED IND 47UH 700MA 422.5 MOHM             BottomLayer  INDC4949X310N                            14.097       27.096       90       FIXED IND 47UH 700MA 422.5 MOHM             
+D9         Diode Schottky 30V 100mA Surface Mount EMD2 BottomLayer  SOD1700X70N-V2                           27.153       14.935       90       Diode Schottky 30V 100mA Surface Mount EMD2 
+D1         DIODE SCHOTTKY 40V 1A DO-219AB              BottomLayer  SODFL370X110-2N                          8.001        25.324       180      DIODE SCHOTTKY 40V 1A DO-219AB              
+C14        CAP CER 0.22UF 50V X7R 0603                 BottomLayer  SMDC0603                                 13.030       35.260       270      CAP CER 0.22UF 50V X7R 0603                 
+C13        CAP CER 0.022UF 50V 10% X7R 0603            BottomLayer  SMDC0603                                 2.032        20.879       270      CAP CER 0.022UF 50V 10% X7R 0603            
+C6         CAP CER 0.1UF 50V 10% X7R 0603              TopLayer     SMDC0603                                 26.492       27.475       180      CAP CER 0.1UF 50V 10% X7R 0603              
+C3         CAP CER 1UF 25V X7R 0603                    BottomLayer  SMDC0603                                 28.727       29.439       90       CAP CER 1UF 25V X7R 0603                    
+C4         CAP CER 0.047UF 50V X7R 0603                TopLayer     SMDC0603                                 33.782       15.748       180      CAP CER 0.047UF 50V X7R 0603                
+C5         CAP CER 0.047UF 50V X7R 0603                TopLayer     SMDC0603                                 20.091       24.816       180      CAP CER 0.047UF 50V X7R 0603                
+C7         CAP CER 0.047UF 50V X7R 0603                TopLayer     SMDC0603                                 24.282       16.586       270      CAP CER 0.047UF 50V X7R 0603                
+C8         CAP CER 0.047UF 50V X7R 0603                TopLayer     SMDC0603                                 14.046       26.594       270      CAP CER 0.047UF 50V X7R 0603                
+C9         CAP CER 0.047UF 50V X7R 0603                TopLayer     SMDC0603                                 12.319       13.970       360      CAP CER 0.047UF 50V X7R 0603                
+C10        CAP CER 0.047UF 50V X7R 0603                TopLayer     SMDC0603                                 8.001        25.654       270      CAP CER 0.047UF 50V X7R 0603                
+C11        CAP CER 10UF 35V X7R 1206                   BottomLayer  SMDC1206                                 5.613        15.316       360      CAP CER 10UF 35V X7R 1206                   
+C12        CAP CER 0.1UF 50V 10% X7R 0603              BottomLayer  SMDC0603                                 8.509        17.272       180      CAP CER 0.1UF 50V 10% X7R 0603              
+C2         CAP CER 1UF 25V X7R 0603                    BottomLayer  SMDC0603                                 32.182       29.464       270      CAP CER 1UF 25V X7R 0603                    
+C18        CAP CER 10UF 35V X7R 1206                   TopLayer     SMDC1206                                 5.613        16.129       360      CAP CER 10UF 35V X7R 1206                   
+R1         RES SMD 100 OHM 1% 1/2W 0805                TopLayer     SMDR0805                                 33.782       13.716       180      RES SMD 100 OHM 1% 1/2W 0805                
+R2         RES SMD 100 OHM 1% 1/2W 0805                TopLayer     SMDR0805                                 18.390       22.962       360      RES SMD 100 OHM 1% 1/2W 0805                
+R3         RES SMD 1.2K OHM 5% 1/2W 0805               TopLayer     SMDR0805                                 33.706       19.126       180      RES SMD 1.2K OHM 5% 1/2W 0805               
+R4         RES SMD 1.2K OHM 5% 1/2W 0805               TopLayer     SMDR0805                                 20.701       27.686       90       RES SMD 1.2K OHM 5% 1/2W 0805               
+R7         RES SMD 100 OHM 1% 1/2W 0805                TopLayer     SMDR0805                                 26.111       16.688       270      RES SMD 100 OHM 1% 1/2W 0805                
+R8         RES SMD 100 OHM 1% 1/2W 0805                TopLayer     SMDR0805                                 14.884       22.962       180      RES SMD 100 OHM 1% 1/2W 0805                
+R9         RES SMD 1.2K OHM 5% 1/2W 0805               TopLayer     SMDR0805                                 21.336       19.558       0        RES SMD 1.2K OHM 5% 1/2W 0805               
+R10        RES SMD 1.2K OHM 5% 1/2W 0805               TopLayer     SMDR0805                                 11.659       29.464       360      RES SMD 1.2K OHM 5% 1/2W 0805               
+R11        RES SMD 100 OHM 1% 1/2W 0805                TopLayer     SMDR0805                                 12.319       12.065       360      RES SMD 100 OHM 1% 1/2W 0805                
+R12        RES SMD 100 OHM 1% 1/2W 0805                TopLayer     SMDR0805                                 3.810        22.860       360      RES SMD 100 OHM 1% 1/2W 0805                
+R13        RES SMD 1.2K OHM 5% 1/2W 0805               TopLayer     SMDR0805                                 12.192       19.761       0        RES SMD 1.2K OHM 5% 1/2W 0805               
+C16        CAP CER 0.22UF 50V X7R 0603                 BottomLayer  SMDC0603                                 12.446       22.987       360      CAP CER 0.22UF 50V X7R 0603                 
+D6         DIODE SCHOTTKY 150V 1A MICROSMP             TopLayer     MICROSMP_(DO-219AD)                      12.819       4.800        270      DIODE SCHOTTKY 150V 1A MICROSMP             
+C19        CAP CER 47UF 16V X6S 1210                   BottomLayer  SMDC1210                                 11.430       31.750       360      CAP CER 47UF 16V X6S 1210                   
+J3         CONN HEADER R/A 6POS 2.54MM                 TopLayer     HDRRA6W86P254_2X3_1344X254X528P_Modified 19.113       3.873        180      CONN HEADER R/A 6POS 2.54MM                 
+C20        CAP CER 10000PF 50V X8R 0603                TopLayer     SMDC0603                                 16.231       9.830        270      CAP CER 10000PF 50V X8R 0603                
+C21        CAP CER 10000PF 50V X8R 0603                TopLayer     SMDC0603                                 23.355       9.410        270      CAP CER 10000PF 50V X8R 0603                
+C22        CAP CER 10000PF 50V X8R 0603                TopLayer     SMDC0603                                 19.241       9.512        270      CAP CER 10000PF 50V X8R 0603                
+C23        CAP CER 10000PF 50V X8R 0603                TopLayer     SMDC0603                                 26.746       8.230        270      CAP CER 10000PF 50V X8R 0603                
+GND        Test Point- 35mil                           BottomLayer  TP_35M_DIA                               33.172       10.643       90       Test Point- 35mil                           
+U7         MAGNETIC SWITCH UNIPOLAR SOT23-3            Mechanical16 SOT95P248X115-3N                         5.120        25.800       180      MAGNETIC SWITCH UNIPOLAR SOT23-3            
+U6         MAGNETIC SWITCH UNIPOLAR SOT23-3            Mechanical16 SOT95P248X115-3N                         12.120       16.740       180      MAGNETIC SWITCH UNIPOLAR SOT23-3            
+U5         MAGNETIC SWITCH UNIPOLAR SOT23-3            Mechanical16 SOT95P248X115-3N                         11.530       26.740       180      MAGNETIC SWITCH UNIPOLAR SOT23-3            
+U4         MAGNETIC SWITCH UNIPOLAR SOT23-3            Mechanical16 SOT95P248X115-3N                         21.250       16.740       180      MAGNETIC SWITCH UNIPOLAR SOT23-3            
+U3         MAGNETIC SWITCH UNIPOLAR SOT23-3            Mechanical16 SOT95P248X115-3N                         17.730       27.650       180      MAGNETIC SWITCH UNIPOLAR SOT23-3            
+U2         MAGNETIC SWITCH UNIPOLAR SOT23-3            Mechanical16 SOT95P248X115-3N                         30.350       16.740       180      MAGNETIC SWITCH UNIPOLAR SOT23-3            
+5V         Test Point- 35mil                           BottomLayer  TP_35M_DIA                               18.288       31.674       180      Test Point- 35mil                           
+A1         Test Point- 35mil                           BottomLayer  TP_35M_DIA                               27.144       8.890        180      Test Point- 35mil                           
+A2         Test Point- 35mil                           BottomLayer  TP_35M_DIA                               23.442       8.890        180      Test Point- 35mil                           
+A4         Test Point- 35mil                           BottomLayer  TP_35M_DIA                               19.837       8.738        180      Test Point- 35mil                           
+A          Test Point- 35mil                           BottomLayer  TP_35M_DIA                               15.113       19.812       180      Test Point- 35mil                           
+M+         Test Point- 35mil                           BottomLayer  TP_35M_DIA                               23.139       28.600       90       Test Point- 35mil                           
+M-         Test Point- 35mil                           BottomLayer  TP_35M_DIA                               23.063       21.158       90       Test Point- 35mil                           
+M          Test Point- 35mil                           BottomLayer  TP_35M_DIA                               19.914       29.083       90       Test Point- 35mil                           
+N          Test Point- 35mil                           BottomLayer  TP_35M_DIA                               24.206       19.558       90       Test Point- 35mil                           
+R          Test Point- 35mil                           BottomLayer  TP_35M_DIA                               32.806       19.126       180      Test Point- 35mil                           
+C15        CAP CER 0.1UF 50V 10% X7R 0603              BottomLayer  SMDC0603                                 18.415       35.179       90       CAP CER 0.1UF 50V 10% X7R 0603              
+D7         TVS DIODE 23.1V 48.3V SMB                   BottomLayer  DIOM4336X26B                             10.973       3.921        360      TVS DIODE 23.1V 48.3V SMB                   
+C25        CAP CER 0.1UF 50V 10% X7R 0603              TopLayer     SMDC0603                                 29.947       13.081       270      CAP CER 0.1UF 50V 10% X7R 0603              
+C26        CAP CER 0.1UF 50V 10% X7R 0603              TopLayer     SMDC0603                                 17.932       18.263       270      CAP CER 0.1UF 50V 10% X7R 0603              
+D2         Diode Schottky 30V 100mA Surface Mount EMD2 BottomLayer  SOD1700X70N-V2                           16.243       14.935       90       Diode Schottky 30V 100mA Surface Mount EMD2 
+D8         Diode Schottky 30V 100mA Surface Mount EMD2 BottomLayer  SOD1700X70N-V2                           19.845       14.935       90       Diode Schottky 30V 100mA Surface Mount EMD2 
+D3         Diode Schottky 30V 100mA Surface Mount EMD2 BottomLayer  SOD1700X70N-V2                           23.451       14.935       90       Diode Schottky 30V 100mA Surface Mount EMD2 
+R27        RES SMD 10K OHM 5% 1/10W 0402               BottomLayer  SMDR0402                                 33.223       20.752       360      RES SMD 10K OHM 5% 1/10W 0402               
+R28        RES SMD 10K OHM 5% 1/10W 0402               BottomLayer  SMDR0402                                 33.223       22.174       360      RES SMD 10K OHM 5% 1/10W 0402               
+C17        CAP CER 10UF 35V X7R 1206                   TopLayer     SMDC1206                                 9.661        4.216        90       CAP CER 10UF 35V X7R 1206                   
+FB3        FERRITE BEAD 600 OHM 0603 1LN               BottomLayer  SMDL0603                                 26.365       10.566       360      FERRITE BEAD 600 OHM 0603 1LN               
+FB4        FERRITE BEAD 600 OHM 0603 1LN               BottomLayer  SMDL0603                                 22.657       10.744       360      FERRITE BEAD 600 OHM 0603 1LN               
+FB5        FERRITE BEAD 600 OHM 0603 1LN               BottomLayer  SMDL0603                                 19.050       10.566       0        FERRITE BEAD 600 OHM 0603 1LN               
+FB6        FERRITE BEAD 600 OHM 0603 1LN               BottomLayer  SMDL0603                                 15.469       10.566       0        FERRITE BEAD 600 OHM 0603 1LN               
+L2         CMC 330UH 300MA 2LN 2 KOHM SMD              BottomLayer  EMS_744212331                            5.839        10.668       270      CMC 330UH 300MA 2LN 2 KOHM SMD              
+D4         TVS DIODE 5V 17.5V SOD882T                  TopLayer     SOD1510X40                               15.799       7.442        0        TVS DIODE 5V 17.5V SOD882T                  
+D5         TVS DIODE 5V 17.5V SOD882T                  TopLayer     SOD1510X40                               21.700       7.442        0        TVS DIODE 5V 17.5V SOD882T                  
+D10        TVS DIODE 5V 17.5V SOD882T                  TopLayer     SOD1510X40                               18.750       7.442        0        TVS DIODE 5V 17.5V SOD882T                  
+D11        TVS DIODE 5V 17.5V SOD882T                  TopLayer     SOD1510X40                               24.650       7.442        0        TVS DIODE 5V 17.5V SOD882T                  
+FB2        FERRITE BEAD 600 OHM 0603 1LN               BottomLayer  SMDL0603                                 7.061        10.795       90       FERRITE BEAD 600 OHM 0603 1LN               
+FB7        FERRITE BEAD 600 OHM 0603 1LN               BottomLayer  SMDL0603                                 4.589        10.770       90       FERRITE BEAD 600 OHM 0603 1LN               
+FID1       FID40X40                                    BottomLayer  FID40X40                                 27.000       2.692        90       FID40X40                                    
+FID2       FID40X40                                    TopLayer     FID40X40                                 27.000       2.692        90       FID40X40                                    
+FID3       FID40X40                                    BottomLayer  FID40X40                                 34.646       29.921       90       FID40X40                                    
+FID4       FID40X40                                    TopLayer     FID40X40                                 34.646       29.921       90       FID40X40                                    

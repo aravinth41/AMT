@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [LMAT_AMT_V4.PcbDoc]
+   Generated File[LMAT_AMT_V4.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:58:30 On 16-03-2021

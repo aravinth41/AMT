@@ -1,0 +1,14 @@
+Output: Assembly gerber
+Type  : Gerber
+From  : PCB Document [LMAT_AMT_V4.PcbDoc]
+   Generated File[LMAT_AMT_V4.GTP]
+   Generated File[LMAT_AMT_V4.GBP]
+   Generated File[LMAT_AMT_V4.RUL]
+   Generated File[LMAT_AMT_V4.EXTREP]
+   Generated File[LMAT_AMT_V4.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 15:29:19 On 16-03-2021
