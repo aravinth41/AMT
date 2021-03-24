@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: LMAT_AMT_V4.PcbDoc   16-03-2021  14:58:29
+NCDrill File Report For: LMAT_AMT_V4.PcbDoc   3/24/2021  1:07:52 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,9 +9,9 @@ EIA File   : LMAT_AMT_V4.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T4      10mil (0.254mm)                                           Round             22        PTH        4.39inch (111.41mm)
-T5      12mil (0.305mm)                                           Round             128       PTH        15.37inch (390.38mm)
-T6      34mil (0.86mm)                                            Round             6         PTH        0.60inch (15.24mm)
+T4      10mil (0.254mm)                                           Round             22        PTH        4.39inch (111.40mm)
+T5      12mil (0.305mm)                                           Round             128       PTH        15.47inch (392.94mm)
+T6      34mil (0.86mm)                                            Round             6         PTH        0.50inch (12.70mm)
 T1      39mil (1mm)                                               Round             3         NPTH       0.28inch (7.21mm)
 T2      94mil (2.4mm)                                             Round             2         NPTH       1.78inch (45.28mm)
 T3      118mil (3mm)                                              Round             2         NPTH       1.78inch (45.28mm)
